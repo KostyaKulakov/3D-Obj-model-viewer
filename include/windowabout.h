@@ -1,5 +1,4 @@
-#ifndef WINDOWABOUT_H
-#define WINDOWABOUT_H
+#pragma once
 
 #include <QWidget>
 
@@ -18,5 +17,3 @@ public:
 private:
     Ui::WindowAbout *ui;
 };
-
-#endif // WINDOWABOUT_H
